@@ -1,0 +1,6 @@
+C:\Users\Yuann\Documents\Visual Studio 2015\Projects\Sabine.OpenXml\Sabine.OpenXml\bin\Debug\Sabine.OpenXml.dll
+C:\Users\Yuann\Documents\Visual Studio 2015\Projects\Sabine.OpenXml\Sabine.OpenXml\bin\Debug\Sabine.OpenXml.pdb
+C:\Users\Yuann\Documents\Visual Studio 2015\Projects\Sabine.OpenXml\Sabine.OpenXml\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Yuann\Documents\Visual Studio 2015\Projects\Sabine.OpenXml\Sabine.OpenXml\obj\Debug\Sabine.OpenXml.csprojResolveAssemblyReference.cache
+C:\Users\Yuann\Documents\Visual Studio 2015\Projects\Sabine.OpenXml\Sabine.OpenXml\obj\Debug\Sabine.OpenXml.dll
+C:\Users\Yuann\Documents\Visual Studio 2015\Projects\Sabine.OpenXml\Sabine.OpenXml\obj\Debug\Sabine.OpenXml.pdb
